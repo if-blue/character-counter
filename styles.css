@@ -1,0 +1,27 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: poppins;
+}
+
+.main-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.userInput{
+    width: 400px;
+    height: 100px;
+    padding: 10px;
+}
+
+span{
+    transition: ease-in 0.1s;
+}
+
+.red-text {
+    color: red;
+  }
